@@ -1,26 +1,8 @@
+Welcome to my blog! 
 
-# README
+I'm  junior developer and I wanted to be able to have a place to work out problems, practice testing and challenge myself.  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This blog will be primary written in Ruby so I can get a better understanding of the language however I will discuss my learnings and do problem solving for Javascript, Html, Css and SQL.  
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Thanks for checking it out!
 
